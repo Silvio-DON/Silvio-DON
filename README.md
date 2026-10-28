@@ -5,7 +5,7 @@
 I spent 5 years running an insurance franchise, selling financial products and talking to clients every day.
 Now I'm moving that business view into tech: I build **data pipelines** and **LLM-powered apps** that answer real business questions.
 
-- 🎓 Postgraduate in **Software Engineering** — PUC-Rio (2025–2026)
+- 🎓 Postgraduate in **Software Engineering** — PUC-Rio (2025–2026), incl. **Data Engineering** (120 h)
 - 🎓 Technologist degree in **Data Science** — UNICID (2022)
 - 🔭 Currently learning: **RAG, AI agents and LLM apps in production**
 - 💼 Open to **Junior AI / Data Engineer** roles (remote)
@@ -17,7 +17,7 @@ Now I'm moving that business view into tech: I build **data pipelines** and **LL
 | Project | What it does | Stack |
 |---|---|---|
 | [**mvp-recarga-ve**](https://github.com/Silvio-DON/mvp-recarga-ve) | End-to-end **Bronze → Silver → Gold** pipeline that crosses 3 public datasets (Senatran, IBGE, ANEEL — 1M+ rows) to assess demand for EV charging in condominiums in Sorocaba | Databricks · PySpark · Delta Lake · Unity Catalog · Python |
-| **Tutor da CPA** *(coming soon)* | AI chatbot that helps people study for the CPA financial certification exam (ANBIMA) | Python · Gemini API · Google Colab |
+| [**tutor-cpa**](https://github.com/Silvio-DON/tutor-cpa) | AI tutor for the CPA financial certification exam (ANBIMA): system prompt with official tables + low temperature to reduce hallucinations, generates multiple-choice questions | Python · Gemini API · Prompt engineering · Colab |
 | [**crc-investimentos**](https://github.com/Silvio-DON/crc-investimentos) | **ML client-risk classifier** for investment advisory: 4 models compared with GridSearchCV (best: SVM, 79% F1), served through a Flask API with tests and a web frontend | scikit-learn · Flask · pytest · Python |
 | [**silvio-invest-mvp**](https://github.com/Silvio-DON/silvio-invest-mvp) | Product MVP for an AI wealth-management idea: wireframes, product and sprint backlog | Product · Agile |
 
